@@ -3,7 +3,7 @@ A simple and minimal setup to get your devices up and running in no time after a
 
 ## Linux distros included (version-agnostic)
 * Arch Linux
-* Fedora
+* Fedora Linux
 * Linux Mint
 
 ## DEs included
